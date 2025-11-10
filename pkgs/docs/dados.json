@@ -1,0 +1,35 @@
+{
+  "Engenheiro": [
+    {
+      "nome": "Alvaro",
+      "tech": [
+        "Python",
+        "Pyspark",
+        "ELT"
+      ]
+    },
+    {
+      "nome": "Loren",
+      "tech": [
+        "Databricks",
+        "Delta Lake"
+      ]
+    }
+  ],
+  "Analista": [
+    {
+      "nome": "Alvaro",
+      "tech": [
+        "PLSQL",
+        "Oracle APEX"
+      ]
+    },
+    {
+      "nome": "Leticia",
+      "tech": [
+        "NodeJS",
+        "TypeScript"
+      ]
+    }
+  ]
+}
